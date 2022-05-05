@@ -1,6 +1,6 @@
 Experiences:
 
-- Java: 6 years
+- Java: 6-7 years
 - Android: 4 years
 - Kotlin: 3 years
 - C#: 1 year
