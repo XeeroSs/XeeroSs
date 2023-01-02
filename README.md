@@ -1,5 +1,4 @@
 Experiences:
-<br><br/>
 - Java: 6-7 years
 - Android: 4 years
 - Kotlin: 3 years
@@ -8,5 +7,4 @@ Experiences:
 <br><br/>
 - Android developer pro: 0-2 year
 <br><br/>
-<br><br/>
-(Update: 21/07/22)
+<br><br/>(Update: 21/07/22)
