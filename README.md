@@ -7,4 +7,4 @@ Experiences:
 <br><br/>
 - Android developer pro: 0-2 year
 <br><br/>
-<br><br/>(Update: 21/07/22)
+(Update: 21/07/22)
