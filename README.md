@@ -4,6 +4,7 @@ Experiences:
 - Android: 4 years
 - Kotlin: 3 years
 - C#: 1 year
+- Flutter / Dart: 0-1 year
 
 - Android developer pro: 0-2 year
 
