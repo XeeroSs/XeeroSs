@@ -6,6 +6,6 @@ Experiences:
 - C#: 1 year
 - Flutter / Dart: 0-1 year
 
-- Android developer pro: 0-2 year
-
+- Android developer pro: 0-2 year\n
+\n
 (Update: 21/07/22)
