@@ -1,7 +1,6 @@
-Experiences:
-<br/><br/>
 I started with Java in 2015.
-<br/>
+<br/><br/>
+Experiences:
 - Java: **6-7** years
 - Android: **4** years
 - Kotlin: **3** years
