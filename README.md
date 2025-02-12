@@ -1,4 +1,4 @@
-✨ J'ai commencé avec Java en 2015.
+✨ J'ai commencé avec Java en 2015-2016.
 
 
 - Android natif (SDK Android) | Jetpack Compose 🚀
