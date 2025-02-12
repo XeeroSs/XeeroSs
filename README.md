@@ -3,4 +3,4 @@
 
 - Android natif (SDK Android) | Jetpack Compose 🚀
 - Kotlin | Java 💻
-- UI avancée 🎨 | Optimisation ⚡ | Expérimentation visuelle 🔬
+- UI avancée 🎨 | Figma ✏️ | Expérimentation visuelle 🔬
